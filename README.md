@@ -1,2 +1,2 @@
 # elemental
-SO much elemental!
+So much elemental!
